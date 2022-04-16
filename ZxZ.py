@@ -1,2 +1,2 @@
-import kkl
-kkl.readline___Public_Xml()
+import wasi
+wasi.readline___Public_Xml()
